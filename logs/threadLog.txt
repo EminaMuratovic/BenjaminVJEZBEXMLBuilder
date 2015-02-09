@@ -1,0 +1,21 @@
+Mon Feb 09 17:37:29 CET 2015 Hey! I'm thread number  3 and i have counted to  1
+Mon Feb 09 17:37:29 CET 2015 Hey! I'm thread number  1 and i have counted to  1
+Mon Feb 09 17:37:29 CET 2015 Hey! I'm thread number  2 and i have counted to  1
+Mon Feb 09 17:37:29 CET 2015 Hey! I'm thread number  4 and i have counted to  1
+Mon Feb 09 17:37:30 CET 2015 Hey! I'm thread number  3 and i have counted to  2
+Mon Feb 09 17:37:30 CET 2015 Hey! I'm thread number  1 and i have counted to  2
+Mon Feb 09 17:37:30 CET 2015 Hey! I'm thread number  2 and i have counted to  2
+Mon Feb 09 17:37:30 CET 2015 Hey! I'm thread number  2 and i have counted to  3
+Mon Feb 09 17:37:30 CET 2015 Hey! I'm thread number  1 and i have counted to  3
+Mon Feb 09 17:37:30 CET 2015 Hey! I'm thread number  3 and i have counted to  3
+Mon Feb 09 17:37:30 CET 2015 Hey! I'm thread number  4 and i have counted to  2
+Mon Feb 09 17:37:30 CET 2015 Hey! I'm thread number  4 and i have counted to  3
+Mon Feb 09 17:37:31 CET 2015 Hey! I'm thread number  1 and i have counted to  4
+Mon Feb 09 17:37:31 CET 2015 Hey! I'm thread number  4 and i have counted to  4
+Mon Feb 09 17:37:31 CET 2015 Hey! I'm thread number  2 and i have counted to  4
+Mon Feb 09 17:37:31 CET 2015 Hey! I'm thread number  2 and i have counted to  5
+Mon Feb 09 17:37:31 CET 2015 Hey! I'm thread number  4 and i have counted to  5
+Mon Feb 09 17:37:31 CET 2015 Hey! I'm thread number  1 and i have counted to  5
+Mon Feb 09 17:37:31 CET 2015 Hey! I'm thread number  3 and i have counted to  4
+Mon Feb 09 17:37:31 CET 2015 Hey! I'm thread number  3 and i have counted to  5
+Mon Feb 09 17:37:31 CET 2015 Sve gotovo
